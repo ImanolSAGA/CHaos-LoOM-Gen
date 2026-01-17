@@ -1,0 +1,7 @@
+{
+  "name": "The Chaos Loom Generator",
+  "description": "An audiovisual synthesizer based on chaos theory, merging Clifford Attractors with Psychedelic Desert Funk grooves.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
